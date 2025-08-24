@@ -27,6 +27,8 @@ A modular, secure backend API for a **mini e-commerce platform** built with **AS
 
 ## 🗂️ Project Structure
 QuickKart.API/
+
+
 │
 ├── Controllers/
 │   ├── AuthController.cs
@@ -69,7 +71,8 @@ QuickKart.API/
 └── Program.cs
 
 
----
+
+
 
 ## 🔐 Roles & Access
 
