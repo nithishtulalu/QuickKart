@@ -25,54 +25,6 @@ A modular, secure backend API for a **mini e-commerce platform** built with **AS
 
 ---
 
-## 🗂️ Project Structure
-QuickKart.API/
-
-
-│
-├── Controllers/
-│   ├── AuthController.cs
-│   ├── ProductsController.cs
-│   ├── OrdersController.cs
-│   └── CustomersController.cs
-│
-├── Services/
-│   ├── IUserService.cs / UserService.cs
-│   ├── IProductService.cs / ProductService.cs
-│   └── IOrderService.cs / OrderService.cs
-│
-├── Repositories/
-│   ├── IUserRepository.cs / UserRepository.cs
-│   ├── IProductRepository.cs / ProductRepository.cs
-│   └── IOrderRepository.cs / OrderRepository.cs
-│
-├── Models/
-│   ├── User.cs
-│   ├── Product.cs
-│   ├── Order.cs
-│   └── OrderHistory.cs
-│
-├── DTOs/
-│   ├── RegisterDto.cs
-│   ├── LoginDto.cs
-│   ├── ProductDto.cs
-│   ├── OrderDto.cs
-│   └── CustomerProfileDto.cs
-│
-├── Middleware/
-│   ├── JwtMiddleware.cs
-│   └── RoleAuthorizationMiddleware.cs
-│
-├── Helpers/
-│   ├── JwtHelper.cs
-│   └── PasswordHasher.cs
-│
-├── appsettings.json
-└── Program.cs
-
-
-
-
 
 ## 🔐 Roles & Access
 
