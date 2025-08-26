@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +27,12 @@
       "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MongoDbSettings.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\MongoDbSettings.cs",
               "RelativeDocumentMoniker": "QuickKartApi\\MongoDbSettings.cs",
@@ -78,12 +78,11 @@
               "RelativeToolTip": "QuickKartApi\\MongoDbSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T05:57:22.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T05:57:22.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "QuickKartApi\\Services\\IUserService.cs",
@@ -95,20 +94,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "QuickKartApi\\Repository\\UserRepository.cs",
               "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Repository\\UserRepository.cs",
               "RelativeToolTip": "QuickKartApi\\Repository\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T12:05:18.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Repository\\IUserRepository.cs",
               "RelativeDocumentMoniker": "QuickKartApi\\Repository\\IUserRepository.cs",
@@ -116,11 +115,12 @@
               "RelativeToolTip": "QuickKartApi\\Repository\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T12:03:48.979Z"
+              "WhenOpened": "2025-08-25T12:03:48.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Program.cs",
               "RelativeDocumentMoniker": "QuickKartApi\\Program.cs",
@@ -128,37 +128,37 @@
               "RelativeToolTip": "QuickKartApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:39:11.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T09:39:11.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\appsettings.json",
               "RelativeDocumentMoniker": "QuickKartApi\\appsettings.json",
               "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\appsettings.json",
               "RelativeToolTip": "QuickKartApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-25T09:32:29.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "QuickKartApi\\Services\\UserService.cs",
               "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Services\\UserService.cs",
               "RelativeToolTip": "QuickKartApi\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T12:19:11.142Z"
+              "WhenOpened": "2025-08-25T12:19:11.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "QuickKartApi\\Controllers\\AuthController.cs",
