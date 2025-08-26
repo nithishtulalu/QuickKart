@@ -9,8 +9,19 @@ var builder = WebApplication.CreateBuilder(args);
 
 //MongoDb setup
 
-var mongoClient = new MongoClient(builder.Configuration["MongoDb:ConnectionString"]);
-var mongoDb = mongoClient.GetDatabase(builder.Configuration["MongoDb:MongoDb"]);
+builder.Services.AddSingleton<IMongoClient>(sp =>
+{
+    var connectionString = builder.Configuration["MongoDb:ConnectionString"];
+    return new MongoClient(connectionString);
+});
+
+builder.Services.AddScoped<IMongoDatabase>(sp =>
+{
+    var settings = builder.Configuration;
+    var client = sp.GetRequiredService<IMongoClient>();
+    var databaseName = settings["MongoDb:DatabaseName"];
+    return client.GetDatabase(databaseName);
+});
 
 //DI
 builder.Services.AddScoped<IUserRepository, UserRepository>();
@@ -52,8 +63,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseAuthentication();
 app.UseAuthorization();
+
 
 app.MapControllers();
 
