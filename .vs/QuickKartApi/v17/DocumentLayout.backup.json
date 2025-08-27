@@ -3,52 +3,32 @@
   "WorkspaceRootPath": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\services\\iorderservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\services\\iorderservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\dto\u0027s\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\dto\u0027s\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\quickkartapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\quickkartapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\dto\u0027s\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\dto\u0027s\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\dto\u0027s\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\dto\u0027s\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|d:\\asp .net core web api\\mongodb\\quickkartapi\\quickkartapi\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53304CF-1210-4226-84A0-E694A0D57CAB}|QuickKartApi\\QuickKartApi.csproj|solutionrelative:quickkartapi\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,154 +46,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "QuickKartApi\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "QuickKartApi\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T07:28:06.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "QuickKartApi\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "QuickKartApi\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwDoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T17:17:56.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "QuickKartApi\\Services\\IProductService.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Services\\IProductService.cs",
-              "RelativeToolTip": "QuickKartApi\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T17:12:28.145Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "QuickKartApi\\Repository\\ProductRepository.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "QuickKartApi\\Repository\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAIAAAAAAAAAA==",
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "QuickKartApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "QuickKartApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:41:45.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Repository\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "QuickKartApi\\Repository\\IProductRepository.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Repository\\IProductRepository.cs",
-              "RelativeToolTip": "QuickKartApi\\Repository\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:37:37.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Models\\User.cs",
-              "RelativeDocumentMoniker": "QuickKartApi\\Models\\User.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Models\\User.cs",
-              "RelativeToolTip": "QuickKartApi\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:29:18.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "QuickKartApi\\Services\\ProductService.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Services\\ProductService.cs",
-              "RelativeToolTip": "QuickKartApi\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T17:13:07.731Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductUpdateDto.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\DTO\u0027s\\ProductUpdateDto.cs",
-              "RelativeDocumentMoniker": "QuickKartApi\\DTO\u0027s\\ProductUpdateDto.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\DTO\u0027s\\ProductUpdateDto.cs",
-              "RelativeToolTip": "QuickKartApi\\DTO\u0027s\\ProductUpdateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:33:36.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductCreateDto.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\DTO\u0027s\\ProductCreateDto.cs",
-              "RelativeDocumentMoniker": "QuickKartApi\\DTO\u0027s\\ProductCreateDto.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\DTO\u0027s\\ProductCreateDto.cs",
-              "RelativeToolTip": "QuickKartApi\\DTO\u0027s\\ProductCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:32:25.355Z",
+              "WhenOpened": "2025-08-27T10:44:35.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Program.cs",
-              "RelativeDocumentMoniker": "QuickKartApi\\Program.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Program.cs",
-              "RelativeToolTip": "QuickKartApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "QuickKartApi\\Services\\OrderService.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Services\\OrderService.cs",
+              "RelativeToolTip": "QuickKartApi\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T07:38:43.579Z",
+              "WhenOpened": "2025-08-27T10:42:10.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOrderService .cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Services\\IOrderService .cs",
+              "RelativeDocumentMoniker": "QuickKartApi\\Services\\IOrderService .cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Services\\IOrderService .cs",
+              "RelativeToolTip": "QuickKartApi\\Services\\IOrderService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:40:14.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "QuickKartApi.http",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\QuickKartApi.http",
-              "RelativeDocumentMoniker": "QuickKartApi\\QuickKartApi.http",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\QuickKartApi.http",
-              "RelativeToolTip": "QuickKartApi\\QuickKartApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-08-27T07:38:38.314Z",
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "QuickKartApi\\Repository\\OrderRepository.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "QuickKartApi\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T10:30:11.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "QuickKartApi\\Models\\Product.cs",
-              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Models\\Product.cs",
-              "RelativeToolTip": "QuickKartApi\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "QuickKartApi\\Repository\\IOrderRepository.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "QuickKartApi\\Repository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:29:00.537Z"
+              "WhenOpened": "2025-08-27T09:40:23.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderCreateDto.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\DTO\u0027s\\OrderCreateDto.cs",
+              "RelativeDocumentMoniker": "QuickKartApi\\DTO\u0027s\\OrderCreateDto.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\DTO\u0027s\\OrderCreateDto.cs",
+              "RelativeToolTip": "QuickKartApi\\DTO\u0027s\\OrderCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:36:36.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "QuickKartApi\\Models\\Orders.cs",
+              "ToolTip": "D:\\ASP .NET CORE WEB API\\MongoDb\\QuickKartApi\\QuickKartApi\\Models\\Orders.cs",
+              "RelativeToolTip": "QuickKartApi\\Models\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T09:29:48.054Z",
+              "EditorCaption": ""
             }
           ]
         }

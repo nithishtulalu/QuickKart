@@ -32,6 +32,42 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "QuickKartApi.Controllers.OrdersController",
+    "Method": "Create",
+    "RelativePath": "api/Orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "QuickKartApi.DTO_s.OrderCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuickKartApi.Controllers.OrdersController",
+    "Method": "Getall",
+    "RelativePath": "api/Orders/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuickKartApi.Controllers.OrdersController",
+    "Method": "GetHistory",
+    "RelativePath": "api/Orders/my",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "QuickKartApi.Controllers.ProductsController",
     "Method": "GetById",
     "RelativePath": "api/Products/{id}",
