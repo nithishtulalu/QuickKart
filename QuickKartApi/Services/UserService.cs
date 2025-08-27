@@ -47,7 +47,7 @@ namespace QuickKartApi.Services
             try
             {
                 var user = await _userRepository.GetByUsernameAsync(dto.Username);
-                if (user != null || !PasswordHasher.VerifyPassword(dto.Password, user.PasswordHash))
+                if (user != null && !PasswordHasher.VerifyPassword(dto.Password, user.PasswordHash))
                     throw new Exception("Invalid credentials");
 
                 return JwtHelper.GenerateToken(user, _config);

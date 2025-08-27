@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickKartApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61ff939054d8fcfafa4d09ee342e7e389e90131d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+934305eb1e37e9c75a4975e0f3a3fdce7b56883c")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickKartApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickKartApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
